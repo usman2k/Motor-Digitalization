@@ -1,0 +1,2 @@
+# Motor-Digitalization
+Digitalized Motor, Where user level (with HMI), IT level, and furthermore MES and ERP level (Node-RedDashboard) data control and monitor. Important features : Motor On/Off Status, Monitor and Control. Speed in Percentage, Monitor and Control. Direction of Motor, Monitor and Control. Monitor Current Consumption with respect to time. Monitor Power consumption with respect to time. Monitor The Speed in RPM. Monitor the Machine run-time
